@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#667eea</color>
+    <color name="colorPrimaryDark">#5a67d8</color>
+    <color name="colorAccent">#ff6b6b</color>
+    <color name="light_gray">#cccccc</color>
+    <color name="dark_gray">#666666</color>
+    <color name="card_background">#20ffffff</color>
+    <color name="gradient_start">#667eea</color>
+    <color name="gradient_end">#764ba2</color>
+</resources>

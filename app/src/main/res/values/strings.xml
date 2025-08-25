@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hi-Res Music Player</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="no_songs_found">No music files found</string>
+    <string name="permission_required">Storage permission required to access music files</string>
+</resources>
